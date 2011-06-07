@@ -1,0 +1,6 @@
+{
+  "name": "express-config",
+  "description": "Super simple express config loader.",
+  "version": "0.0.1",
+  "main": "./index.js"
+}
